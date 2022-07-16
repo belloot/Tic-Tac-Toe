@@ -1,3 +1,3 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe (console)
 
 #### HAVE FUN!
